@@ -157,6 +157,16 @@ https://your-api-id.execute-api.us-east-1.amazonaws.com/dev/chat
 * Ask questions and get real-time responses
 * Responses are powered by **Amazon Bedrock**
 
+## 🧪 Demo & Testing
+
+- Visit your chatbot via the S3 URL
+- Ask questions and get real-time responses
+- Responses are powered by **Amazon Bedrock**
+
+> 🖼️ Live Chatbot Interface  
+![EZEGS AI Chatbot Demo](https://i.postimg.cc/PJRvzMdc/Opera-Snapshot-2025-08-05-041055-ezegs-ai-chatbot-s3-us-east-1-amazonaws-com.png)
+
+
 ---
 
 ## 🧼 Clean Up Resources
